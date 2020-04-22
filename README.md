@@ -10,11 +10,11 @@ Esta aplicacion consiste en crear un grupo de usuarios los cuales puedan compart
 
 
 Herramientas Usadas (Se incluiran las herramientas que vamos usando para realizar el diseño técnico)
-PowerPoint.
+Mockflow
 
 
 Bibliografía: Incluir url de las herramientas usadas y páginas web de tutoriales o articulos dónde se ha obtenido
-https://getbootstrap.com/
+https://getbootstrap.com/, https://www.mockflow.com/
 
 
  información para usar dichas tecnologías (Este apartado siempre debe estar al final)
