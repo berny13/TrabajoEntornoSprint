@@ -32,7 +32,7 @@ En la siguiente imagen podemos observar un diagrama UML de nuestra aplicación. 
 
 - **Whisky:**Es exactamente igual que explique en el apartado del Ron.
 
-![Diagrama Objeto 1](/imagenesDiagrama_Objeto_1.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_1.png)
 
 **Descripción del Diagrama:**
 
@@ -69,22 +69,12 @@ En la siguiente imagen podemos observar un diagrama UML de nuestra aplicación. 
 **Ron:** Aquí podemos ver 3 tipos Ron de las cuales sabemos la marca y su porcentaje de alcohol.
 
 **Herramienta utilizada UML:**
-
-http://creately.com/
+-http://creately.com/
 
 **Herramienta utilizada MarkDown:**
--
-MarkPad
+- MarkPad
 
 **_Bibliografía:_**
 
 -  **UML:** http://creately.com
 -  **MarkDown:** https://markdown.es/editores-markdown/
-
-
-
-
-
-
-
-
