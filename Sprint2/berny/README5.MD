@@ -1,7 +1,15 @@
+TrabajoEntornoSprintPersonal
+Proyecto de diseño de una aplicación web para la asignatura Entorno de Desarrollo curso 2019-2020
+
+Nombre de la aplicación: MY-DRINK-PARTY Nombre del alumno: BERNY JIMENEZ SANCHEZ Especificaciones: Sprint: 2
+
+Fecha del Sprint: 05/05/2020
+
+Tareas realizadas por el alumno:
+
 CLASE BEBIDAS:
 
 En esta clase el usuario podra seleccionar la bebida entre una lasita para ello debera abrir el desplegable y escoger el tipo especifico de bebida
-
 
 CLASE AMIGOS:
 
@@ -13,7 +21,7 @@ En esta clase el usuario encontrara informacion sobre los creadores de la aplica
 
 CLASE ENTRAR
 
-En esta clase el usuario  ya estara  creado accede con su nombre y puede ver su historial o comenzar una nueva actividad
+En esta clase el usuario ya estara creado accede con su nombre y puede ver su historial o comenzar una nueva actividad
 
 CLASE NOTICIAS:
 
