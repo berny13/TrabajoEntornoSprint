@@ -8,13 +8,13 @@
 1. Jose Manuel Rebolledo Rivera
 2. Berny Jimenez
 
-![Mockup 2](/imágenes/Mockup2.png)
+![Mockup 2](/imagenes/Mockup2.png)
 
 **Descripción del mockup:**
 
 En el siguiente Mockup podemos observar un pequeño formulario de registro, donde el usuario deberá colocar su nombre, email y contraseña y además deberá aceptar los términos y condiciones. Por otro lado el usuario también puede iniciar sección con Gmail, Facebook y GitHub.
 
-![Diagrama UML](/imágenes/Diagrama_UML.png)
+![Diagrama UML](/imagenes/Diagrama_UML.png)
 
 **Descripción del Diagrama:**
 
@@ -32,37 +32,37 @@ En la siguiente imagen podemos observar un diagrama UML de nuestra aplicación. 
 
 - **Whisky:**Es exactamente igual que explique en el apartado del Ron.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_1.png)
+![Diagrama Objeto 1](/imagenesDiagrama_Objeto_1.png)
 
 **Descripción del Diagrama:**
 
 **Personas:** Aquí vemos un pequeño diagrama de objetos de la clase persona, vemos 3 personas diferentes y de ellas pues sabremos su nombre, edad, y el Rol que puede ser usuario común o administrador.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_2.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_2.png)
 
 **Descripción del Diagrama:**
 
 **Usuarios:** Aquí podremos ver algunos usuarios de nuestra aplicación y de ellos pues solo sabemos su nombre, edad y el email.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_3.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_3.png)
 
 **Descripción del Diagrama:**
 
 **Administrador:** Aquí observamos a algunos administradores de nuestra aplicación y al igual que en los usuarios pues solo sabemos su nombre, edad y el email.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_4.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_4.png)
 
 **Descripción del Diagrama:**
 
 **Bebida:** Aquí observamos 3 tipos de bebidas de las cuales sabemos su clase que puede ser **cervezas, vinos, whisky o ron**,además de la marca y su porcentaje de alcohol.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_5.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_5.png)
 
 **Descripción del Diagrama:**
 
 **Whisky**: Aquí podemos ver 3 tipos de whisky de las cuales sabemos la marca y su porcentaje de alcohol.
 
-![Diagrama Objeto 1](/imágenes/Diagrama_Objeto_6.png)
+![Diagrama Objeto 1](/imagenes/Diagrama_Objeto_6.png)
 
 **Descripción del Diagrama:**
 
