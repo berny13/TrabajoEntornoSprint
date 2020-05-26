@@ -1,12 +1,12 @@
 # Proyecto Aplicación Web
 
-## Proyecto de diseño de una Aplicación Web para la asignatura Entorno de Desarrollo curso 2019-2020
+## Sprint6
 
-> Nombre de la aplicación: Drink Party
+##Nombre de la aplicación: Drink Party
 
-> Nombre del alumno: **Jose Manuel Rebolledo Rivera**
+###Nombre del alumno: **Jose Manuel Rebolledo Rivera**
 
-# SPRINT 6
+##SPRINT 6
 
 ## Tabla
 
