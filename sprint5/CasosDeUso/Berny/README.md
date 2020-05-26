@@ -9,10 +9,10 @@
 
 ## Diagramas de caso de uso 1
 
-![mockup](.Casos%20de%20uso1.jpeg)
+![mockup](./Casos%20de%20uso1.jpeg)
 
 ![mockup](./Ficha%20Tecnica1.jpg)
 
 ## Diagramas de caso de uso 2
 ![mockup](./Diagramadeacasos2.jpeg)
-![mockup](.Ficha%20tecnica2.jpg)
+![mockup](./Ficha%20tecnica2.jpg)
