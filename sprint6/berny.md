@@ -6,28 +6,7 @@
 
 > Nombre del alumno: **[Berny Jimenez](https://www.linkedin.com/in/berny-jiménez-7027a7177)**
 
-> Especificaciones:
-  * Sprint: 6
-  * Fecha del Sprint: 23 mayo 2020
-  * Tareas realizadas por el alumno:
-  * Búsqueda de Información
-  * Markdown 
-  * Tabla con el contenido
-> Tiempo empleado en cada tarea:
-  * Búsqueda de Información: 60min
-  * Markdown : 20min
-  * Tabla con el contenido: 45min   
-> Herramientas usadas:
-  * LucidChart
-  * Creately
-  * Git
-  * Github
- 
-> Bibliografía usada:
-
-
-
-
+# SPRINT 6
 
 ## Tabla
 
