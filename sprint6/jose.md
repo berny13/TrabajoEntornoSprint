@@ -117,9 +117,9 @@
   </tr>
   <tr>
     <td style="width: 15%;">Testing</td>
-    <td style="width: 20%;">MonkeyTesting</td>
-    <td style="width: 20%;"><img src="./FichasTecnicas/Jose/monkey.jpg" width="30"/></td>
-    <td style="width: 34%;">ya que es la sobre la que he investigado y permite hacer diferentes pruebast</td>
+    <td style="width: 20%;">JMeter</td>
+    <td style="width: 20%;"><img src="./FichasTecnicas/Jose/JMeter.png" width="30"/></td>
+    <td style="width: 34%;">Como vimos en el curso es una herramienta muy completa para el testeo</td>
   </tr>
   <tr>
     <td style="width: 15%;">Back-End</td>
